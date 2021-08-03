@@ -2,8 +2,9 @@
 A semi-parody esolang for writing very specific papers.
 
 
-To run code: execute PaperScript.py with command line arguments of <file> <numbers>
-  Numbers put after the file will be pushed to the stack
+To run code: execute PaperScript.py with command line arguments of \<file\> \<numbers\>
+
+Numbers put after the file will be pushed to the stack
 
 Code blocks are encapsulated around '<' and '>' and pushed to the stack.
   
